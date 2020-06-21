@@ -1,0 +1,15 @@
+{
+  "name": "world-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "d3-tip.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
